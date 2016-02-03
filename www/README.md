@@ -1,8 +1,12 @@
-- install
+# Web dels Arbres Monumentals de Catalunya
+En preparació.
+
+##Comandes bàsiques:
+- instal·lar:
   	`npm install`
-- execute
+- executar:
   	`npm start`
-- clean
+- netejar:
   	`npm run clean`
-- lint
+- lint:
   	`npm run lint`
